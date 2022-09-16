@@ -1,0 +1,6 @@
+.vscode/
+build/
+*.txt
+!sampleDICT.txt
+data/*
+*.png
